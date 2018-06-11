@@ -22,7 +22,8 @@ Introduction
 Informal statement
 ------------------
   
-- informal statement
+Twin Prime Conjecture 
+======================
 
 preformally: ::
 
