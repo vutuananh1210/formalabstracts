@@ -9,7 +9,7 @@ Introduction
 
 
 - Link to  sources: 
-    `GoldBach'Conjecture  <https://en.wikipedia.org/wiki/Goldbach%27s_conjecture>`_
+    `GoldBach'Conjecture  <https://en.wikipedia.org/wiki/Goldbach%27s_conjecture>`_   :math:`a*b`
 
     `Twin Prime Conjecture  <http://mathworld.wolfram.com/TwinPrimeConjecture.html>`_
 
