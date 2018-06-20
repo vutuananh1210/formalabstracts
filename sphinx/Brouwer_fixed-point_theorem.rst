@@ -4,14 +4,14 @@ Brouwer fixed-point theorem
 This article gives a formal statement of the Brouwer fixed-point theorem.  For Wikipedia's
 description, see `Brouwer fixed-point theorem <https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem>`_
 
-informally 
+Informal statement
    
    Let K be a topological space that is homeomorphic
    to a closed ball in Euclidean space.
    Then every [continuous] [function] f from K to itself
    has a fixed point.
 
-preformally: ::
+.. code-block:: text
   
   notation:
   (K : topological space)
@@ -32,5 +32,6 @@ Notes.
   Lefschetz fixed-point theorem can be found in `Belk's stack exchange
   comment <https://math.stackexchange.com/a/423304>`_.
 
-
+* This theorem (for compact convex sets)
+  has been `formalized in HOL Light <http://www.cl.cam.ac.uk/~jrh13/papers/neworleans.pdf>`_.
 
